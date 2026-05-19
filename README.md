@@ -1,2 +1,2 @@
 # FromationGit
-projet de test
+projet de test dans algo
